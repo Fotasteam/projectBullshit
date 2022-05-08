@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Projekt Bullshit\Host\bin\Debug\net6.0\Host.exe
+C:\Users\user\source\repos\Projekt Bullshit\Host\bin\Debug\net6.0\Host.deps.json
+C:\Users\user\source\repos\Projekt Bullshit\Host\bin\Debug\net6.0\Host.runtimeconfig.json
+C:\Users\user\source\repos\Projekt Bullshit\Host\bin\Debug\net6.0\Host.dll
+C:\Users\user\source\repos\Projekt Bullshit\Host\bin\Debug\net6.0\Host.pdb
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\Host.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\Host.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\Host.AssemblyInfo.cs
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\Host.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\Host.dll
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\refint\Host.dll
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\Host.pdb
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\Host.genruntimeconfig.cache
+C:\Users\user\source\repos\Projekt Bullshit\Host\obj\Debug\net6.0\ref\Host.dll
